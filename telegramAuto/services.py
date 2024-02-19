@@ -1,5 +1,5 @@
 import requests
-import sett
+import telegramAuto.sett as sett
 import json
 import time
 from datetime import datetime, timedelta
